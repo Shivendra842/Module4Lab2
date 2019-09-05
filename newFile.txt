@@ -1,1 +1,1 @@
-This is a newFile in newBranch
+This is a newFile in master
